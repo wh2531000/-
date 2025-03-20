@@ -48,4 +48,4 @@ print("当天净利润为：", net_profit)
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic1.jpg" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+<img src="https://github.com/wh2531000/-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20161534.png" alt="截图二">
